@@ -1,0 +1,18 @@
+﻿Console.WriteLine("Первый человек:");
+Console.Write("Год рождения: ");
+int year1 = int.Parse(Console.ReadLine());
+Console.Write("Месяц рождения: ");
+int month1 = int.Parse(Console.ReadLine());
+Console.Write("День рождения: ");
+int day1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Второй человек:");
+Console.Write("Год рождения: ");
+int year2 = int.Parse(Console.ReadLine());
+Console.Write("Месяц рождения: ");
+int month2 = int.Parse(Console.ReadLine());
+Console.Write("День рождения: ");
+int day2 = int.Parse(Console.ReadLine());
+var birthDay1 = new DateTime(year1, month1, day1);
+var birthDay2 = new DateTime(year2, month2, day2);
+Console.Write(birthDay1 < birthDay2 ? "Первый старше" : birthDay1 > birthDay2 ? "Второй старше" : "Родились в один день");
+Console.ReadKey();

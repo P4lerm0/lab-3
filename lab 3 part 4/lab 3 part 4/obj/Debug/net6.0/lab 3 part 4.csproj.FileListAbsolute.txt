@@ -1,0 +1,16 @@
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\bin\Debug\net6.0\lab 3 part 4.exe
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\bin\Debug\net6.0\lab 3 part 4.deps.json
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\bin\Debug\net6.0\lab 3 part 4.runtimeconfig.json
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\bin\Debug\net6.0\lab 3 part 4.dll
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\bin\Debug\net6.0\ref\lab 3 part 4.dll
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\bin\Debug\net6.0\lab 3 part 4.pdb
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.GlobalUsings.g.cs
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.csproj.AssemblyReference.cache
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.AssemblyInfoInputs.cache
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.AssemblyInfo.cs
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.csproj.CoreCompileInputs.cache
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.dll
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\ref\lab 3 part 4.dll
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.pdb
+C:\Users\Dimap\source\repos\lab 3 part 4\lab 3 part 4\obj\Debug\net6.0\lab 3 part 4.genruntimeconfig.cache
